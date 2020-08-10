@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "mod 2 project"
-date:       2020-08-10 20:00:50 +0000
+title:      "Multiple Linear Regression"
+date:       2020-08-10 16:00:50 -0400
 permalink:  mod_2_project
 ---
 
